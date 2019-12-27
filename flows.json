@@ -1,0 +1,1 @@
+[{"id":"72c189d1.f7ec88","type":"switch","z":"42d46358.c609ec","name":"if input is 1","property":"payload","propertyType":"msg","rules":[{"t":"eq","v":"1","vt":"str"},{"t":"else"}],"checkall":"true","repair":false,"outputs":2,"x":290,"y":400,"wires":[["f2eeed18.899cb"],["e97342ce.ae54f"]]}]
